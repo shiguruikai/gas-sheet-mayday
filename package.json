@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/google-apps-script": "^1.0.10"
-  },
-  "dependencies": {}
+    "@types/google-apps-script": "^1.0.34"
+  }
 }
